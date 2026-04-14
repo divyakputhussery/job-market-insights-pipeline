@@ -12,5 +12,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Verify Python syntax
-        run: python -m py_compile scripts/ingest_jobs.py
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Check Python syntax
+        run: |
+          python_files=$(find . -name "*.py")
+          if [ -z "$python_files" ]; then
+            echo "No Python files found. Skipping syntax check."
+          else
+            python -m py_compile $python_files
+            echo "Python syntax check passed."
+          fi
