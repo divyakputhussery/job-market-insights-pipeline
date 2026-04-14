@@ -22,3 +22,6 @@ This project builds an end-to-end data pipeline to analyze job market trends.
 - `warehouse/` → transformation layer
 - `dashboard/` → analytics layer
 - `docs/` → documentation
+
+## 📍 Current Status
+Project initialized. Next step: data ingestion.
