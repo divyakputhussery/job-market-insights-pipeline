@@ -26,3 +26,9 @@ jobs:
             python -m py_compile $python_files
             echo "Python syntax check passed."
           fi
+
+      - name: Install flake8
+        run: pip install flake8
+
+      - name: Run lint check
+        run: flake8 .
