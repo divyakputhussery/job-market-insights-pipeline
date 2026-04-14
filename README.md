@@ -24,4 +24,4 @@ This project builds an end-to-end data pipeline to analyze job market trends.
 - `docs/` → documentation
 
 ## 📍 Current Status
-Project initialized. Next step: data ingestion.
+Project initialized. Next step: data ingestion
