@@ -124,17 +124,32 @@ streamlit run dashboard/app.py
 ## Screenshots
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+<p align="center">
+  <img src="images/dashboard.png" width="500"/>
+</p>
 
 ### S3 Storage
-![S3](images/s3-1.png)
-![S3](images/s3-2.png)
+
+<p align="center">
+  <img src="images/s3-1.png" width="600"/>
+</p>
+<p align="center">
+  <img src="images/s3-2.png" width="600"/>
+</p>
 
 ### PostgreSQL Data
-![Postgres](images/postgres.png)
+
+<p align="center">
+  <img src="images/postgres.png" width="600"/>
+</p>
 
 ### dbt Models
-![dbt](images/dbt.png)
+
+<p align="center">
+  <img src="images/dbt.png" width="600"/>
+</p>
 
 ### Pipeline
-![Pipeline](images/pipeline.png)
+<p align="center">
+  <img src="images/pipeline.png" width="600"/>
+</p>
