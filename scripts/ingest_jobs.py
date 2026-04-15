@@ -17,7 +17,10 @@ def fetch_jobs() -> dict:
     if not APP_ID or not APP_KEY:
         raise ValueError("Missing ADZUNA_APP_ID or ADZUNA_APP_KEY environment variables.")
 
-    url = f"https://api.adzuna.com/v1/api/jobs/{COUNTRY}/search/{PAGE}"
+    url = (
+        f"https://api.adzuna.com/v1/api/jobs/"
+        f"{COUNTRY}/search/{PAGE}"
+    )
     params = {
         "app_id": APP_ID,
         "app_key": APP_KEY,
@@ -49,4 +52,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-  
+
