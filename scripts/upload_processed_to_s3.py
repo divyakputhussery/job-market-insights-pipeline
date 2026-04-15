@@ -5,18 +5,19 @@ import boto3
 BUCKET_NAME = "job-market-insights-data"
 
 
-def upload_latest_raw_file() -> None:
-    raw_dir = Path("data/raw")
-    files = list(raw_dir.glob("*.json"))
+def upload_latest_processed_file():
+    processed_dir = Path("data/processed")
+    files = list(processed_dir.glob("*.json"))
 
     if not files:
-        print("No raw files found")
+        print("No processed files found")
         return
 
     latest_file = sorted(files)[-1]
 
     s3 = boto3.client("s3")
-    s3_key = f"raw/{latest_file.name}"
+    s3_key = f"processed/{latest_file.name}"
+
     s3.upload_file(str(latest_file), BUCKET_NAME, s3_key)
 
     print(
@@ -26,4 +27,4 @@ def upload_latest_raw_file() -> None:
 
 
 if __name__ == "__main__":
-    upload_latest_raw_file()
+    upload_latest_processed_file()
