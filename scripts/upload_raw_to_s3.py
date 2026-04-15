@@ -18,7 +18,10 @@ def upload_latest_raw_file() -> None:
     s3 = boto3.client("s3")
     s3.upload_file(str(latest_file), BUCKET_NAME, latest_file.name)
 
-    print(f"Uploaded {latest_file.name} to s3://{BUCKET_NAME}/{latest_file.name}")
+    print(
+      f"Uploaded {latest_file.name} "
+      f"to s3://{BUCKET_NAME}/{latest_file.name}"
+    )
 
 
 if __name__ == "__main__":
