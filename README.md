@@ -97,21 +97,23 @@ export DB_PASSWORD=
 
 ### 2. Run full pipeline
 
+```bash
 python3 scripts/run_pipeline.py
-
+```
 ---
 
 ### 3. Run dbt models
 
+```bash
 cd job_market_dbt
 dbt run
-
+```
 ---
 
 ### 4. Run dashboard
-
+```bash
 streamlit run dashboard/app.py
-
+```
 ---
 
 ## Future Improvements
