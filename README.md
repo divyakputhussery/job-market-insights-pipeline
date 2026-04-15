@@ -85,14 +85,16 @@ requirements.txt
 
 ### 1. Set environment variables
 
+```bash
 export ADZUNA_APP_ID="your_app_id"
 export ADZUNA_APP_KEY="your_app_key"
-
+```
+```bash
 export DB_HOST=localhost
 export DB_NAME=jobs_db
 export DB_USER=your_username
 export DB_PASSWORD=
-
+```
 ---
 
 ### 2. Run full pipeline
