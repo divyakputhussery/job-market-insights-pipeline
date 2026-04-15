@@ -1,0 +1,329 @@
+{
+  "mean": 154075.82,
+  "results": [
+    {
+      "created": "2026-02-06T19:59:25Z",
+      "longitude": 151.206616,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5617111828?se=xt507Hg48RG8i7XYPwQUzg&utm_medium=api&utm_source=71b1b4d8&v=3A5B0F3FB7FABD743F1D94BB1D614B67D2D2B8E3",
+      "latitude": -33.865715,
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "contract_time": "part_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5617111828",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYxNzExMTgyOCIsInMiOiJ4dDUwN0hnNDhSRzhpN1hZUHdRVXpnIn0.Oqk-ez1lo9pwm6479vyDpMBaIAUGiRTUba99I2rfWXM",
+      "title": "Software Engineer",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mercor"
+      },
+      "description": "This is a Software Engineer role with Mercor based in Sydney, NSW, Australia  Mercor  Role Seniority - junior, mid level, senior More about the Software Engineer role at Mercor Mercor is hiring experienced Software Engineering professionals to support a variety of high-impact research collaborations with leading AI labs. Freelancers will help improve AI systems through work on code validation, prompt refinement, algorithmic evaluation, and model benchmarking. This is a unique opportunity to app…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs"
+      },
+      "longitude": 151.206616,
+      "created": "2025-12-16T15:08:56Z",
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5543863047?se=xt507Hg48RG8i7XYPwQUzg&utm_medium=api&utm_source=71b1b4d8&v=5C91F7B6B2BD8A7A9943D70FAEBA4597A76BE455",
+      "latitude": -33.865715,
+      "title": "Software Engineer",
+      "company": {
+        "display_name": "Anduril Industries",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5543863047",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU0Mzg2MzA0NyIsInMiOiJ4dDUwN0hnNDhSRzhpN1hZUHdRVXpnIn0.zAfwUEadkSDCDkVfsF0l8IgqZEGXD5XpnbtSfGkKvLQ",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney"
+      },
+      "description": "This is a Software Engineer role with Anduril Industries based in Sydney, NSW, AU  Anduril Industries  Role Seniority - mid level More about the Software Engineer role at Anduril Industries Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military sy…"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzNzE1MzM5NSIsInMiOiJ4dDUwN0hnNDhSRzhpN1hZUHdRVXpnIn0.SzzqIVkm7lcdOZZYMQMsrgS3cVOoc9LKJSaQj27A00g",
+      "id": "5637153395",
+      "company": {
+        "display_name": "ResMed",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Software Engineer",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "This is a Software Engineer role with ResMed based in Sydney, NSW, AU  ResMed  Role Seniority - mid level More about the Software Engineer role at ResMed About the role At Resmed, we are changing lives with every breath – improve patient quality of life, prevent chronic disease progression and reduce healthcare system costs. Our mission is to delight Resmed's developer community with an opinionated, yet empathetic developer experience that avoids surprise, is a joy to use, and abstracts the com…",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "created": "2026-02-20T14:09:41Z",
+      "longitude": 151.206616,
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5637153395?se=xt507Hg48RG8i7XYPwQUzg&utm_medium=api&utm_source=71b1b4d8&v=B221F729AE3398DE27D88BF5E300DE60965FD88A",
+      "latitude": -33.865715
+    },
+    {
+      "latitude": -33.865715,
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5643140503?se=xt507Hg48RG8i7XYPwQUzg&utm_medium=api&utm_source=71b1b4d8&v=1E726F143DBD2BBE2A4B60DA89D8E9F884EC2241",
+      "longitude": 151.206616,
+      "created": "2026-02-24T14:54:41Z",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "description": "This is a Software Engineer role with ResMed based in Sydney, NSW, AU  ResMed  Role Seniority - mid level More about the Software Engineer role at ResMed Do you have a passion for building solutions that will spring ResMed’s Digital Healthcare products into the next decade? Are you keen to work for an organization that is focused on building a platform that is enabling and re-imagining the connected healthcare space? Do you have a wide variety of experience deploying services that are cloud nat…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "ResMed",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Software Engineer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieHQ1MDdIZzQ4Ukc4aTdYWVB3UVV6ZyIsImkiOiI1NjQzMTQwNTAzIn0.tKu1ObLUBjjPdI-Gfr4z8X1n0cJNIzOKElULD7fwJv4",
+      "id": "5643140503"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "company": {
+        "display_name": "THE ICONIC",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Lead Software Engineer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieHQ1MDdIZzQ4Ukc4aTdYWVB3UVV6ZyIsImkiOiI1NjgzODE4MjA3In0.Oyb8i2v0QOmmFs30f1dy1GN0U7LgYTcvXf6LD9jLWpc",
+      "id": "5683818207",
+      "description": "This is a Lead Software Engineer role with THE ICONIC based in Sydney, NSW, AU  THE ICONIC  Role Seniority - mid level, senior More about the Lead Software Engineer role at THE ICONIC Lead Software Engineer Since launching in 2011, THE ICONIC has redefined the future of retail in Australia and New Zealand. As the leading fashion, sports and lifestyle e-commerce destination in the region, our e-commerce platforms (Retail, Marketplace and Services) provide a seamless and inspiring end-to-end cust…",
+      "longitude": 151.206616,
+      "created": "2026-03-31T14:29:16Z",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5683818207?se=xt507Hg48RG8i7XYPwQUzg&utm_medium=api&utm_source=71b1b4d8&v=2E21BCECEBCDF77C786334DB436BB199243383DF",
+      "latitude": -33.865715
+    },
+    {
+      "longitude": 151.206616,
+      "created": "2026-04-10T15:52:22Z",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -33.865715,
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5695327463?se=xt507Hg48RG8i7XYPwQUzg&utm_medium=api&utm_source=71b1b4d8&v=ADA6B5D356B5155952A6C0493F089490881701F1",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Software Engineer",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Amazon"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieHQ1MDdIZzQ4Ukc4aTdYWVB3UVV6ZyIsImkiOiI1Njk1MzI3NDYzIn0.VSjBiXUl2gKaHhJHz6Pu7cDtryLhxq_G2tTtgDLA5QA",
+      "id": "5695327463",
+      "description": "This is a Software Engineer role with Amazon based in Sydney, NSW, AU  Amazon  Role Seniority - mid level, senior More about the Software Engineer role at Amazon AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the in…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "longitude": 151.206616,
+      "created": "2026-03-17T14:20:31Z",
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5669139327?se=xt507Hg48RG8i7XYPwQUzg&utm_medium=api&utm_source=71b1b4d8&v=A7BDFDA810B24249C4ECB4C013DEA8E087A9B11C",
+      "latitude": -33.865715,
+      "title": "Associate Software Engineer",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Karbon"
+      },
+      "id": "5669139327",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2OTEzOTMyNyIsInMiOiJ4dDUwN0hnNDhSRzhpN1hZUHdRVXpnIn0.5M9NGa3CHq4E8RE7QE-HLMDVglzlnWjx6HzUb-mQBqo",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "description": "This is a Associate Software Engineer role with Karbon based in Sydney, NSW, AU  Karbon  Role Seniority - graduate, junior More about the Associate Software Engineer role at Karbon About Karbon Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have grown into a global…"
+    },
+    {
+      "title": "Software Engineer",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Alinta Energy"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieHQ1MDdIZzQ4Ukc4aTdYWVB3UVV6ZyIsImkiOiI1NjY4MzMzMjMyIn0.fEJF2UMFPIyvSoczJQhCLHyYSU-xoFtqRIXcUtSdUJ0",
+      "id": "5668333232",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "This is a Software Engineer role with Alinta Energy based in Sydney, NSW, AU  Alinta Energy  Role Seniority - junior, mid level More about the Software Engineer role at Alinta Energy Deliver impactful full-stack applications for a leading energy provider Grow your career with cutting-edge tech and modern frameworks Enjoy hybrid work, energy discounts, and career development support Alinta Energy is one of Australia’s biggest energy retailers, generators and developers with over 1.1 million cust…",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "longitude": 151.206616,
+      "created": "2026-03-16T17:02:28Z",
+      "latitude": -33.865715,
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5668333232?se=xt507Hg48RG8i7XYPwQUzg&utm_medium=api&utm_source=71b1b4d8&v=699008240CF805529A32C17ECC0FCFF9DEBE94C6"
+    },
+    {
+      "description": "This is a Software Engineer role with ResMed based in Sydney, NSW, AU  ResMed  Role Seniority - mid level More about the Software Engineer role at ResMed At Resmed, we are changing lives with every breath – improve patient quality of life, prevent chronic disease progression and reduce healthcare system costs. Our mission is to delight Resmed's developer community with an opinionated, yet empathetic developer experience that avoids surprise, is a joy to use, and abstracts the complexities of mo…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "company": {
+        "display_name": "ResMed",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Software Engineer",
+      "id": "5637243157",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieHQ1MDdIZzQ4Ukc4aTdYWVB3UVV6ZyIsImkiOiI1NjM3MjQzMTU3In0.wIQpmDy09rdwqPi62dx52kQZQy_ttklgnviBOsWDFB4",
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5637243157?se=xt507Hg48RG8i7XYPwQUzg&utm_medium=api&utm_source=71b1b4d8&v=0EF2D43B9741375890202EF276B7D36CCAE7C1CA",
+      "latitude": -33.865715,
+      "longitude": 151.206616,
+      "created": "2026-02-20T14:58:50Z",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "latitude": -33.865715,
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5543861389?se=xt507Hg48RG8i7XYPwQUzg&utm_medium=api&utm_source=71b1b4d8&v=8B040A76CB01E7DBD98BBB42CAEACF54814E69A9",
+      "longitude": 151.206616,
+      "created": "2025-12-16T15:04:10Z",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "description": "This is a Associate Software Engineer role with ResMed based in Sydney, NSW, AU  ResMed  Role Seniority - junior More about the Associate Software Engineer role at ResMed At Resmed, we are changing lives with every breath – improve patient quality of life, prevent chronic disease progression and reduce healthcare system costs. Our mission is to delight Resmed's developer community with an opinionated, yet empathetic developer experience that avoids surprise, is a joy to use, and abstracts the c…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney"
+      },
+      "title": "Associate Software Engineer",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ResMed"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieHQ1MDdIZzQ4Ukc4aTdYWVB3UVV6ZyIsImkiOiI1NTQzODYxMzg5In0.2o0QgmyiCJumOqNI3E3fPQNUJH5d6ALcuRLHblQnUCo",
+      "id": "5543861389"
+    }
+  ],
+  "count": 1094,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}
